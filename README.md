@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0164-maximum-gap) |
+## Database
+|  |
+| ------- |
+| [1251-average-selling-price](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1251-average-selling-price) |
 <!---LeetCode Topics End-->
