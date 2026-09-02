@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0164-maximum-gap) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Deepukrsingh/DSA_Solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1251-average-selling-price](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1251-average-selling-price) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/Deepukrsingh/DSA_Solution/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
