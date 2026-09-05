@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0164-maximum-gap) |
 | [1512-number-of-good-pairs](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1512-number-of-good-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Deepukrsingh/DSA_Solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0164-maximum-gap) |
 ## Bucket Sort
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1512-number-of-good-pairs) |
 ## Counting
@@ -62,5 +65,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
