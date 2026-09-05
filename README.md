@@ -52,9 +52,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1512-number-of-good-pairs) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
