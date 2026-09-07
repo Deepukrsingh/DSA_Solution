@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0164-maximum-gap](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0189-rotate-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1512-number-of-good-pairs) |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
