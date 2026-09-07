@@ -49,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
