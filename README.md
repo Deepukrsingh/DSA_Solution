@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0049-group-anagrams) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0392-is-subsequence) |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0073-set-matrix-zeroes) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
