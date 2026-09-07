@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0334-increasing-triplet-subsequence) |
 | [1512-number-of-good-pairs](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1512-number-of-good-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Deepukrsingh/DSA_Solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
@@ -101,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0334-increasing-triplet-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
