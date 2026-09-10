@@ -76,12 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0383-ransom-note) |
+| [1189-maximum-number-of-balloons](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0383-ransom-note) |
+| [1189-maximum-number-of-balloons](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0392-is-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1189-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
 | ------- |
