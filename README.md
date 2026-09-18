@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0414-third-maximum-number) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0414-third-maximum-number) |
 ## Bucket Sort
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1512-number-of-good-pairs) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1512-number-of-good-pairs) |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0229-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |
