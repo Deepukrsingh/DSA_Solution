@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0724-find-pivot-index) |
 | [1470-shuffle-the-array](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1512-number-of-good-pairs) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Deepukrsingh/DSA_Solution/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0643-maximum-average-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
