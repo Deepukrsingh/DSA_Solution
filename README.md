@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1512-number-of-good-pairs) |
 ## Counting
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1512-number-of-good-pairs) |
 ## String
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0392-is-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1189-maximum-number-of-balloons) |
 ## Divide and Conquer
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0724-find-pivot-index) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
