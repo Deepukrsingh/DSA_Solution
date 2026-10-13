@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0414-third-maximum-number) |
 ## Bucket Sort
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1189-maximum-number-of-balloons) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0392-is-subsequence) |
