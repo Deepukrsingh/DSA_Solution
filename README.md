@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1512-number-of-good-pairs) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Deepukrsingh/DSA_Solution/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2540-minimum-common-value](https://github.com/Deepukrsingh/DSA_Solution/tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Deepukrsingh/DSA_Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Deepukrsingh/DSA_Solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0392-is-subsequence) |
+| [2540-minimum-common-value](https://github.com/Deepukrsingh/DSA_Solution/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1512-number-of-good-pairs) |
+| [2540-minimum-common-value](https://github.com/Deepukrsingh/DSA_Solution/tree/master/2540-minimum-common-value) |
 ## Counting
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2540-minimum-common-value](https://github.com/Deepukrsingh/DSA_Solution/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
 | ------- |
