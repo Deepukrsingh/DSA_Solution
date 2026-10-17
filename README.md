@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1251-average-selling-price](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1251-average-selling-price) |
 | [1729-find-followers-count](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1729-find-followers-count) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Deepukrsingh/DSA_Solution/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Math
 |  |
 | ------- |
