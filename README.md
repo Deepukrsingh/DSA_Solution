@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0334-increasing-triplet-subsequence) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1512-number-of-good-pairs) |
@@ -182,9 +184,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Deepukrsingh/DSA_Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0412-fizz-buzz) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
