@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0724-find-pivot-index) |
 | [1470-shuffle-the-array](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1512-number-of-good-pairs) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Deepukrsingh/DSA_Solution/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Deepukrsingh/DSA_Solution/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2540-minimum-common-value](https://github.com/Deepukrsingh/DSA_Solution/tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Deepukrsingh/DSA_Solution/tree/master/2778-sum-of-squares-of-special-elements) |
