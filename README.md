@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1512-number-of-good-pairs) |
+| [2235-add-two-integers](https://github.com/Deepukrsingh/DSA_Solution/tree/master/2235-add-two-integers) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Deepukrsingh/DSA_Solution/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Deepukrsingh/DSA_Solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
