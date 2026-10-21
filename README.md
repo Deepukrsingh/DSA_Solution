@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1512-number-of-good-pairs) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Deepukrsingh/DSA_Solution/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Deepukrsingh/DSA_Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Deepukrsingh/DSA_Solution/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2540-minimum-common-value](https://github.com/Deepukrsingh/DSA_Solution/tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Deepukrsingh/DSA_Solution/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0414-third-maximum-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Deepukrsingh/DSA_Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Deepukrsingh/DSA_Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/Deepukrsingh/DSA_Solution/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
