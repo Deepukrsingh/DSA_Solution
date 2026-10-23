@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0258-add-digits) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0357-count-numbers-with-unique-digits) |
 | [0412-fizz-buzz](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1512-number-of-good-pairs) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
@@ -222,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0204-count-primes) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
