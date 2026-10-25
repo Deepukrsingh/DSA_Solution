@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0176-second-highest-salary) |
+| [0197-rising-temperature](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0197-rising-temperature) |
 | [0596-classes-with-at-least-5-students](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/Deepukrsingh/DSA_Solution/tree/master/0619-biggest-single-number) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Deepukrsingh/DSA_Solution/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
